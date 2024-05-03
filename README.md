@@ -44,6 +44,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TelmoManduco/TelmoManduco/output/snake.svg" alt="Snake animation" />
 
 ###
